@@ -9,5 +9,6 @@ namespace ConsoleApp1
     class DeveloperBranch
     {
         //added new line
+        //added another line to check conflict
     }
 }
