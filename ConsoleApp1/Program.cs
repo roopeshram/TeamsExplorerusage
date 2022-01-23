@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //added
+            //new line added in VS
         }
     }
 }
